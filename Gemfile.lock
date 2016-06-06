@@ -47,10 +47,6 @@ GEM
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
     builder (3.2.2)
-<<<<<<< HEAD
-    byebug (9.0.4)
-=======
->>>>>>> TheOdinProject/master
     capybara (2.6.2)
       addressable
       mime-types (>= 1.16)
@@ -108,7 +104,7 @@ GEM
       rails (>= 3, < 5)
     font-awesome-rails (4.5.0.1)
       railties (>= 3.2, < 5.1)
-    get_process_mem (0.2.0)
+    get_process_mem (0.2.1)
     github_api (0.13.1)
       addressable (~> 2.4.0)
       descendants_tracker (~> 0.0.4)
@@ -118,7 +114,7 @@ GEM
       oauth2
     globalid (0.3.6)
       activesupport (>= 4.1.0)
-    google-api-client (0.9.6)
+    google-api-client (0.9.8)
       addressable (~> 2.3)
       googleauth (~> 0.5)
       httpclient (~> 2.7)
@@ -170,14 +166,9 @@ GEM
       mime-types (>= 1.16, < 4)
     memoist (0.14.0)
     memory_profiler (0.9.6)
-<<<<<<< HEAD
-    method_source (0.8.2)
-    mime-types (3.0)
+    mime-types (3.1)
       mime-types-data (~> 3.2015)
     mime-types-data (3.2016.0521)
-=======
-    mime-types (2.99.1)
->>>>>>> TheOdinProject/master
     mini_portile2 (2.0.0)
     minitest (5.9.0)
     multi_json (1.12.1)
@@ -216,16 +207,6 @@ GEM
     premailer-rails (1.9.2)
       actionmailer (>= 3, < 6)
       premailer (~> 1.7, >= 1.7.9)
-<<<<<<< HEAD
-    pry (0.10.3)
-      coderay (~> 1.1.0)
-      method_source (~> 0.8.1)
-      slop (~> 3.4)
-    pry-byebug (3.4.0)
-      byebug (~> 9.0)
-      pry (~> 0.10)
-=======
->>>>>>> TheOdinProject/master
     puma (2.16.0)
     quiet_assets (1.1.0)
       railties (>= 3.1, < 5.0)
@@ -287,25 +268,13 @@ GEM
       rspec-mocks (~> 3.4.0)
       rspec-support (~> 3.4.0)
     rspec-support (3.4.1)
-<<<<<<< HEAD
-    rubyzip (1.2.0)
     sass (3.4.22)
-=======
-    sass (3.4.21)
->>>>>>> TheOdinProject/master
     sass-rails (5.0.4)
       railties (>= 4.0.0, < 5.0)
       sass (~> 3.1)
       sprockets (>= 2.8, < 4.0)
       sprockets-rails (>= 2.0, < 4.0)
       tilt (>= 1.1, < 3)
-<<<<<<< HEAD
-    selenium-webdriver (2.53.0)
-      childprocess (~> 0.5)
-      rubyzip (~> 1.0)
-      websocket (~> 1.0)
-=======
->>>>>>> TheOdinProject/master
     shortener (0.5.5)
       rails (>= 3.0.7)
     shoulda-matchers (3.1.1)
@@ -318,12 +287,7 @@ GEM
     simple_form (3.2.1)
       actionpack (> 4, < 5.1)
       activemodel (> 4, < 5.1)
-<<<<<<< HEAD
-    slop (3.6.0)
     sprockets (3.6.0)
-=======
-    sprockets (3.5.2)
->>>>>>> TheOdinProject/master
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     sprockets-rails (3.0.4)
@@ -335,7 +299,7 @@ GEM
       ref
     thor (0.19.1)
     thread_safe (0.3.5)
-    tilt (2.0.4)
+    tilt (2.0.5)
     twitter-bootstrap-rails (2.2.8)
       actionpack (>= 3.1)
       execjs
@@ -352,13 +316,9 @@ GEM
       activemodel (>= 4.2)
       debug_inspector
       railties (>= 4.2)
-<<<<<<< HEAD
-    websocket (1.2.3)
-=======
     websocket-driver (0.6.4)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.2)
->>>>>>> TheOdinProject/master
     will_paginate (3.1.0)
     xpath (2.0.0)
       nokogiri (~> 1.3)
@@ -411,8 +371,4 @@ RUBY VERSION
    ruby 2.3.0p0
 
 BUNDLED WITH
-<<<<<<< HEAD
-   1.12.3
-=======
-   1.12.5
->>>>>>> TheOdinProject/master
+   1.12.4

@@ -33,16 +33,15 @@ end
 group :development, :test do
   gem 'rspec-rails',                '~> 3.4.2'
   gem 'factory_girl_rails',         '~> 4.6.0'
-  gem 'selenium-webdriver',         '~> 2.52'
   gem 'capybara',                   '~> 2.6.2'
-  gem 'capybara-webkit',            '~> 1.8.0'
+  gem 'phantomjs',                  '~> 2.1.1'
+  gem 'poltergeist',                '~> 1.9.0'
   gem 'database_cleaner',           '~> 1.5.1'
   gem 'fakeweb',                    '~> 1.3.0'
   gem 'shoulda-matchers',           '~> 3.1'
 end
 
 group :development do
-  gem 'pry-byebug',                 '~> 3.3'
   gem 'web-console',                '~> 3.0'
   gem 'better_errors',              '~> 2.1.1'                        # gives much better error messages for debug
   gem 'quiet_assets',               '~> 1.1.0'                        # shortens up the server log output
